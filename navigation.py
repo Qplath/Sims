@@ -1,5 +1,3 @@
-# Handles navigation between pages/modules
-
 import streamlit as st
 from market_dashboard import market_dashboard_page
 from candlestick_chart import candlestick_chart_page

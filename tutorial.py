@@ -1,5 +1,3 @@
-# Tutorial page for beginners
-
 import streamlit as st
 
 def tutorial_page():
@@ -11,4 +9,3 @@ def tutorial_page():
     4. **Transaksi**: Simulasikan beli/jual saham.
     5. **Profil**: Pantau saldo dan riwayat transaksi.
     """)
-    # ...add more interactive tutorial content...
