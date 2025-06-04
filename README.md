@@ -4,3 +4,5 @@
 
 Jangan jalankan file ini langsung dengan `python main.py` atau dari IDE.  
 Gunakan perintah berikut di terminal:
+
+BELUM 100% JADI WKWK
